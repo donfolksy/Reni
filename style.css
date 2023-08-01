@@ -1550,10 +1550,10 @@ one h5 {
 }
 
 .frame:hover {
-  width: 110%;
+  width: 100%;
   height: 170px;
   margin-top: 00px; 
-  transition: 2s;
+  transition: 1s;
   background-color: #ffc804;
   color: #374387;
   padding: 0rem;
@@ -1562,6 +1562,20 @@ one h5 {
   padding-left: 1rem;
 }
 
+.sec4-cont {
+  display: flex;
+  width: 100%;
+  /* height: 300px; */
+  border: white solid 1rem;
+  border-radius: 40px;
+  display: flex;
+  background-color: #374387;
+  padding: 2rem 1rem;
+  /* align-items: baseline; */
+  flex-direction: column;
+  gap: 50px;
+  justify-content: space-between;
+}
 
 .frame h4 {
   font-family: Montserrat;
