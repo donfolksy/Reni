@@ -49,14 +49,14 @@ nav img {
   height: 30px;
 }
 .nav-reg {
-   border: 1px solid #374387; 
+  border: 1px solid #374387;
   background-color: #374387;
   color: white;
   border-radius: 10px;
   border: none;
-  width: 80px;
-  height: 30px;
-} 
+  width: 92px;
+  height: 38px;
+}
 
 .custom-nav {
   width: 90%;
